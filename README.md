@@ -6,6 +6,13 @@
 
 ------------------------------------------------------------------------
 
+## Author
+
+**Jiashu Wang** — MSc Statistics & Data Science, National University of
+Singapore\
+[GitHub](https://github.com/OwenWang19) \|
+[LinkedIn](https://www.linkedin.com/in/jiashu-wang-8022b6309/)
+
 ## Overview
 
 Energy traders and analysts track two fundamental spread relationships
@@ -231,9 +238,3 @@ scipy>=1.12.0
 
 ------------------------------------------------------------------------
 
-## Author
-
-**Jiashu Wang** — MSc Statistics & Data Science, National University of
-Singapore\
-[GitHub](https://github.com/OwenWang19) \|
-[LinkedIn](https://www.linkedin.com/in/jiashu-wang-8022b6309/)
