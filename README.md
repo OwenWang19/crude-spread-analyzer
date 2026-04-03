@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Crude Spread Analyzer
 
 > A quantitative framework for monitoring, analysing, and trading crude
